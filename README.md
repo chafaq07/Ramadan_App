@@ -1,16 +1,66 @@
-# ramadan_app
+# ramadan\_app
+
+
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## \# Ramadan Flutter App 🌙
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+A beautiful Ramadan mobile application built with Flutter.
+
+## 
+
+## \## Features
+
+
+
+\- Ramadan Calendar
+
+\- Prayer Times
+
+\- Daily Duas
+
+\- Clean UI
+
+\- Activity Tracker 
+
+## 
+
+## \## Demo Video
+
+
+
+LinkedIn:  https://www.linkedin.com/feed/update/urn:li:activity:7433224520624349185/
+
+Instagram: https://www.instagram.com/p/DVx\_pxDj9ca/
+
+
+
+## 
+
+## \## Installation
+
+
+
+git clone https://github.com/chafaq07/Ramadan\_App.git  
+
+cd Ramadan\_App  
+
+flutter pub get  
+
+flutter run
+
+## 
+
+## \## Author
+
+
+
+Afaq Ahmad  
+
+Flutter Developer
+
